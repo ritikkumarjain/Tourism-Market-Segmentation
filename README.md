@@ -65,7 +65,7 @@ Out of these K-Means was chosed and used for further analysis.
 #### Clustering
 - Domestic 2016-17 and Foreign 2016-17 features were used to cluster.
 - No. of cluster chosed for analysis is 4 based on Elbow plot and  Silhouette analysis.
-- 
+- Silhouette Score for 4 cluster is = 0.39
 ![output](https://user-images.githubusercontent.com/69076815/134291943-dc89b499-9058-4113-a110-8cc4479553e8.png)
 
 ![output](https://user-images.githubusercontent.com/69076815/134292020-ea96cc88-d1b6-4b0c-b2b9-096ab668b7ef.png)
