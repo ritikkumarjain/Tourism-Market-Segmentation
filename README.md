@@ -74,6 +74,20 @@ Out of these K-Means was chosed and used for further analysis.
 - Based on Knock out Criteria i.e., Segment must be Large and Homogenous, Cluster 2 was choosen as the perfect cluster.
 - From Cluster 2 Circle - Agra, Bhopal, Dharwad were chosen to be place for opening the hostel chain.
 
+### Getting Started
+- Clone this repo.
+- Download the unprocessed data(folder - data>Tourism.csv)
+- Download the two notebooks(notebooks> eda.ipnb, model-training K-Means.ipynb)
+- First run the eda notebook and then the model-training K-Means.ipynb to get results in Jpyter Notebook
+
+
+### Members of the Project
+- Malhar Lumbhani
+- Aryan Sharma
+- Ankur Bhayana
+- Ritik kumar Jain
+
+
 
 
 
