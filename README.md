@@ -1,7 +1,7 @@
 # Tourism-Market-Segmentation
 ---
 This Repository contains Market Segmentation project done as part of Data Science Internsip at Feynn Labs.
-#### -- Project Status: [Completed]
+#### Project Status: [Completed]
 
 ### Objective
 The purpose of this project is to analyse the Tourism market and come up with a feasible strategy to enter the market targeting the segments most likely to use their services.
@@ -16,15 +16,17 @@ The purpose of this project is to analyse the Tourism market and come up with a 
 * Choosing the Target Segments
 
 ### Technologies
-##### Tools: PowerBI, Jupyter
-##### Language: Python
-##### Libraries: Pandas, Numpy, Matplotlib, Sklearn, Seaborn, Scipy.
+- Tools: PowerBI, Jupyter
+- Language: Python
+- Libraries: Pandas, Numpy, Matplotlib, Sklearn, Seaborn, Scipy.
 
 
 ### Project Description
-Data Collection
+__ Data Collection
 - Initially Data has Been collected from kaggle which consist of features [Circle, Name of Monument, Domestic(2017-17), Foreign(2016-17), Domestic(2017-18), Foreign(2017-18), Domestic Percentage growth(2016-17/2017-18, Foreign Percentage growth(2016-17/2017-18].
 - Include manually collection of data with respect to Circle and Name of Monument.[Airport(in km),Railway (in km)].
+
+Data
 
 
 
