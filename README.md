@@ -1,6 +1,6 @@
 # Tourism-Market-Segmentation
 ---
-This Repository contains Market Segmentation project done as part of Data Science Internsip at Feynn Labs.
+This Repository contains Market Segmentation project done as part of Data Science Internship at Feynn Labs.
 #### Project Status: [Completed]
 
 ### Objective
